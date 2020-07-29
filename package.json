@@ -1,0 +1,21 @@
+{
+  "name": "json-server-middlewares",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "json-server -m topics.js -w db.json -p 9000 -d 1750",
+    "router": "nodemon router.js",
+    "server": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "json-server": "^0.16.1",
+    "lowdb": "^1.0.0"
+  }
+}

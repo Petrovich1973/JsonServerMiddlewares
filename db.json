@@ -1,0 +1,39 @@
+{
+  "topics": [
+    {
+      "name": "topicName5",
+      "partitions": "55555",
+      "replication-factor": 243433,
+      "replica-assignment": "343434",
+      "id": "1595792873891"
+    },
+    {
+      "name": "topicName1",
+      "partitions": "11111",
+      "replication-factor": 1111,
+      "replica-assignment": "",
+      "id": "1596056206297"
+    },
+    {
+      "name": "topicName2",
+      "partitions": "22222",
+      "replication-factor": 22222,
+      "replica-assignment": "",
+      "id": "1596056235026"
+    },
+    {
+      "name": "topicName3",
+      "partitions": "3333",
+      "replication-factor": 33333,
+      "replica-assignment": "",
+      "id": "1596056270195"
+    },
+    {
+      "name": "topicName4",
+      "partitions": "444444",
+      "replication-factor": 444444,
+      "replica-assignment": "",
+      "id": "1596056292949"
+    }
+  ]
+}
